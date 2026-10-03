@@ -1,0 +1,19 @@
+{
+  "name": "fallingblocks",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Falling Blocks: a falling-pieces puzzle with four modes, hold and T-spins, in one HTML page (fan-made)",
+  "author": "ALEXalesha",
+  "license": "MIT",
+  "homepage": "https://alexalesha.github.io/FallingBlocks/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ALEXalesha/FallingBlocks.git"
+  },
+  "scripts": {
+    "test": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.62.1"
+  }
+}
